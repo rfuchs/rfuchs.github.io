@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ClueCon 2022 Presentation: Fast Kernel-Level SFU with Sipwise RTPengine"
+---
+Slides to [my presentation at ClueCon 2022](/assets/ClueCon 2022 - Richard Fuchs - RTPengine.pdf)
+
+Video coming shortly.
